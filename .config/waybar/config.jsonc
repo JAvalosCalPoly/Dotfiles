@@ -1,4 +1,8 @@
 {
+
+  "on-sigusr1": "hide",
+  "on-sigusr2": "show",
+
   "layer": "top",
   "position": "top",
   "margin-bottom": -10,
